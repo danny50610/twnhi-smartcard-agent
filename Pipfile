@@ -10,6 +10,7 @@ cryptography = "*"
 hexdump = "*"
 pycryptodomex = "*"
 websockets = "*"
+pyscard = "*"
 
 [requires]
 python_version = "3.7"
